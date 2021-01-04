@@ -1,7 +1,8 @@
-## Welcome to GitHub Pages
+## Welcome 
 
-You can use the [editor on GitHub](https://github.com/ananya-ayasi/ananya-ayasi.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
+Read my article on
+1. [Superconductivity and Quantum Computation](https://cs.ieeekerala.org/2020/11/23/superconductivity-and-quantum-computation/) for IEEE CS Kerala Section blog.
+2. [Tech policy](https://cs.ieeekerala.org/2020/09/21/technology-inclusive-or-intrusive/) for IEEE CS Kerala Section blog.
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
