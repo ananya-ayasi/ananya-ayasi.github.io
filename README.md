@@ -3,36 +3,16 @@
 Read my article on
 1. [Superconductivity and Quantum Computation](https://cs.ieeekerala.org/2020/11/23/superconductivity-and-quantum-computation/) for IEEE CS Kerala Section blog.
 2. [Tech policy](https://cs.ieeekerala.org/2020/09/21/technology-inclusive-or-intrusive/) for IEEE CS Kerala Section blog.
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+Here is the link to my blog: [click-here](http://ayasi-kaleidoscope.blogspot.com/)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ananya-ayasi/ananya-ayasi.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Contact Me
+If you have any queries feel free to connect wih me 
+@[LinkedIn](https://www.linkedin.com/in/ananya-ayasi-0b654a166/) 
+@[mail](ananyaayasi@ieee.org) 
