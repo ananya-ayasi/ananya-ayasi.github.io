@@ -3,8 +3,9 @@
 ### Techincial Contributions
 1. I gave a talk on ["Quantum Technology and its impact on society"](https://www.womentech.net/speaker/Ananya/Ayasi/58004) for WTGC'21
 2. Presented a poster on ["Understanding Quantum Technology to formulate Ethical Legal Frameworks around it"](https://www.linkedin.com/feed/update/urn:li:activity:6805861007517470721/) for [Careers in Quantum](https://www.careersinquantum.co.uk/) by QET Labs and University of Bristol.
-3. Blog on [Superconductivity and Quantum Computation](https://cs.ieeekerala.org/2020/11/23/superconductivity-and-quantum-computation/) for IEEE CS Kerala Section blog.
-4. Blog on [Tech policy](https://cs.ieeekerala.org/2020/09/21/technology-inclusive-or-intrusive/) for IEEE CS Kerala Section blog.
+3. I organized a Chapter driven initiative-[IMPULSE](https://impulsecet.in/) for IEEE SPS as the Chair of IEEE SPS Student Branch Chapter of College of Engineering Trivandrum.
+4. Blog on [Superconductivity and Quantum Computation](https://cs.ieeekerala.org/2020/11/23/superconductivity-and-quantum-computation/) for IEEE CS Kerala Section blog.
+5. Blog on [Tech policy](https://cs.ieeekerala.org/2020/09/21/technology-inclusive-or-intrusive/) for IEEE CS Kerala Section blog.
 
 
 ### My Projects
