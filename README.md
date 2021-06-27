@@ -13,9 +13,10 @@
 2. [Phyco-device](https://github.com/ananya-ayasi/phyco-device)
 
 ### My Creative Endeavours
-1. [Click-here](http://ayasi-kaleidoscope.blogspot.com/) or [here](https://ayasiananya.scrollstack.com/) to go to my blogs.
-2. [Click-here](https://www.youtube.com/channel/UCYFgavuV_QO3ft7fXbs9XfQ) to see my YouTube channel.
-3. [Click-here](https://www.kanthari.org/corona-blog-day-49-12-05-2020/) to read my experience at [kanthari](https://www.kanthari.org/), an educational and training institute as a volunteer of [Make A Difference](https://makeadiff.in/)
+1. [Click-here](https://cetmagazine.ml/) to see the magazine I worked for as the associate editor.
+2. [Click-here](http://ayasi-kaleidoscope.blogspot.com/) or [here](https://ayasiananya.scrollstack.com/) to go to my blogs.
+3. [Click-here](https://www.youtube.com/channel/UCYFgavuV_QO3ft7fXbs9XfQ) to see my YouTube channel.
+4. [Click-here](https://www.kanthari.org/corona-blog-day-49-12-05-2020/) to read my experience at [kanthari](https://www.kanthari.org/), an educational and training institute as a volunteer of [Make A Difference](https://makeadiff.in/)
 
 
 
